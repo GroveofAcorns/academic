@@ -66,7 +66,7 @@ body {
     }
     .One {
         background-color: rgb(235, 209, 209);
-        float: left;
+        float: none;
         width: 33.33%;
         height: 33.33%;
     }
@@ -74,17 +74,17 @@ body {
         background-color: rgb(221, 198, 198);
         width: 33.33%;
         height: 33.33%;
-        float: left;
+        float: none;
     }
     .Three {
         background-color: rgb(182, 128, 128);
-        float: right;
+        float: none;
         width: 33.33%;
         height: 33.33%;
     }
     .Six {
         background-color: rgb(110, 58, 58);
-        float:right;
+        float: none;
         width: 33.33%;
         height: 33.33%;
     }
@@ -92,30 +92,30 @@ body {
         background-color: rgb(182, 128, 128);
         width: 33.33%;
         height: 33.33%;
-        float: left;
+        float: none;
     }
     .Four {
         background-color: rgb(221, 198, 198);
         width: 33.33%;
-        float: left;
+        float: none;
         height: 33.33%;
     }
     .Seven {
         background-color: rgb(182, 128, 128);
         width: 33.33%;
-        float: left;
+        float: none;
         height: 33.33%;
     }
     .Eight {
         background-color: rgb(110, 58, 58);
         width: 33.33%;
         height: 33.33%;
-        float: left;
+        float: none;
     }
     .Nine {
         background-color: rgb(77, 35, 35);
         width: 33.33%;
-        float: right;
+        float: none;
         height: 33.33%;
     }
     .Ten {
