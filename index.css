@@ -1,0 +1,124 @@
+body {
+    text-align: center;
+    background-color: rgb(0, 0, 0, 0.2);
+}
+.One {
+    background-color: rgb(235, 209, 209);
+    float: left;
+    width: 33.33%;
+    height: 33.33%;
+}
+.Two {
+    background-color: rgb(221, 198, 198);
+    width: 33.33%;
+    height: 33.33%;
+    float: left;
+}
+.Three {
+    background-color: rgb(182, 128, 128);
+    float: right;
+    width: 33.33%;
+    height: 33.33%;
+}
+.Six {
+    background-color: rgb(110, 58, 58);
+    float:right;
+    width: 33.33%;
+    height: 33.33%;
+}
+.Five {
+    background-color: rgb(182, 128, 128);
+    width: 33.33%;
+    height: 33.33%;
+    float: left;
+}
+.Four {
+    background-color: rgb(221, 198, 198);
+    width: 33.33%;
+    float: left;
+    height: 33.33%;
+}
+.Seven {
+    background-color: rgb(182, 128, 128);
+    width: 33.33%;
+    float: left;
+    height: 33.33%;
+}
+.Eight {
+    background-color: rgb(110, 58, 58);
+    width: 33.33%;
+    height: 33.33%;
+    float: left;
+}
+.Nine {
+    background-color: rgb(77, 35, 35);
+    width: 33.33%;
+    float: right;
+    height: 33.33%;
+}
+.Ten {
+    text-align: center;
+}
+@media(max-width: 100%){
+    body {
+        text-align: center;
+        background-color: rgb(0, 0, 0, 0.2);
+    }
+    .One {
+        background-color: rgb(235, 209, 209);
+        float: left;
+        width: 33.33%;
+        height: 33.33%;
+    }
+    .Two {
+        background-color: rgb(221, 198, 198);
+        width: 33.33%;
+        height: 33.33%;
+        float: left;
+    }
+    .Three {
+        background-color: rgb(182, 128, 128);
+        float: right;
+        width: 33.33%;
+        height: 33.33%;
+    }
+    .Six {
+        background-color: rgb(110, 58, 58);
+        float:right;
+        width: 33.33%;
+        height: 33.33%;
+    }
+    .Five {
+        background-color: rgb(182, 128, 128);
+        width: 33.33%;
+        height: 33.33%;
+        float: left;
+    }
+    .Four {
+        background-color: rgb(221, 198, 198);
+        width: 33.33%;
+        float: left;
+        height: 33.33%;
+    }
+    .Seven {
+        background-color: rgb(182, 128, 128);
+        width: 33.33%;
+        float: left;
+        height: 33.33%;
+    }
+    .Eight {
+        background-color: rgb(110, 58, 58);
+        width: 33.33%;
+        height: 33.33%;
+        float: left;
+    }
+    .Nine {
+        background-color: rgb(77, 35, 35);
+        width: 33.33%;
+        float: right;
+        height: 33.33%;
+    }
+    .Ten {
+        text-align: center;
+    }
+}
